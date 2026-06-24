@@ -1,0 +1,1 @@
+Vehicle{brand='Toyota', model='Corolla', registrationNumber='67', assignedDriver=null, year=2005, type=CAR, status=FREE}
